@@ -14,6 +14,7 @@
 
 * Flutter
 * Firebase
+* Geolocator
 
 ## Screenshots
 <p align="center">
