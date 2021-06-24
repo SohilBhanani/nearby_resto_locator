@@ -16,15 +16,14 @@
 * Firebase
 
 ## Screenshots
-
-<!-- <p align="center">
-  <img src="assets/ss/1.jpg" width="250" title="hover text">
-  <img src="assets/ss/2.jpg" width="250" alt="accessibility text">
-  <img src="assets/ss/3.jpg" width="250" alt="accessibility text">
-  <img src="assets/ss/4.jpg" width="250" alt="accessibility text">
-  <img src="assets/ss/5.jpg" width="250" alt="accessibility text">
-  <img src="assets/ss/6.jpg" width="250" alt="accessibility text"> -->
-</p>
+<p align="center">
+  <img src="screenshots/photo_2021-06-24_09-55-11.jpg" width="250" title="hover text">
+  <img src="screenshots/photo_2021-06-24_09-55-12 (2).jpg" width="250" alt="accessibility text">
+ </p>
+ <p align="center">
+   <img src="screenshots/photo_2021-06-24_09-55-12 (3).jpg" width="250" alt="accessibility text">
+  <img src="screenshots/photo_2021-06-24_09-55-12.jpg" width="250" alt="accessibility text">
+  </p>
 
 
 
